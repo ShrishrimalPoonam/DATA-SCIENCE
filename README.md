@@ -7,7 +7,7 @@
 **<div align = "justify">1. Connecting Routes Analysis</div>**
 
 **<div align = "justify">Dataset:** connecting_routes.csv</div>
-*<div align = "justify">Description:** Analyzes routes between airports by constructing a network graph from source and destination airports. </div>
+**<div align = "justify">Description:** Analyzes routes between airports by constructing a network graph from source and destination airports. </div>
 
 **<div align = "justify">2. Facebook Network Analysis</div>**
 
