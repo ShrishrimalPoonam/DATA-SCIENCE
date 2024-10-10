@@ -22,37 +22,37 @@
 <div align = "justify">This project analyzes book purchase data to discover frequent itemsets and association rules, identifying patterns in customers' reading preferences. </div>
 
 **<div align = "justify"> Key Steps:</div>**
-Load and preprocess the book dataset.
-Apply Apriori to generate frequent itemsets.
-Generate association rules with a focus on lift.
-Visualize the top 11 frequent itemsets by support.
+<div align = "justify">Load and preprocess the book dataset.</div>
+<div align = "justify">Apply Apriori to generate frequent itemsets.</div>
+<div align = "justify">Generate association rules with a focus on lift.</div>
+<div align = "justify">Visualize the top 11 frequent itemsets by support.</div>
 
 **<div align = "justify"> 2. Groceries Dataset:</div>**
 <div align = "justify">A detailed analysis of grocery transaction data to uncover relationships between frequently bought items. </div>
 
 **<div align = "justify"> Key Steps:</div>**
-Parse raw transaction data and extract individual items.
-Perform frequency analysis to find the most purchased items.
-Use the Apriori algorithm to identify frequent itemsets.
-Generate and visualize association rules based on lift.
+<div align = "justify">Parse raw transaction data and extract individual items.</div>
+<div align = "justify">Perform frequency analysis to find the most purchased items.</div>
+<div align = "justify">Use the Apriori algorithm to identify frequent itemsets.</div>
+<div align = "justify">Generate and visualize association rules based on lift.</div>
 
 **<div align = "justify"> 3. Movie Dataset:</div>**
 <div align = "justify">This project focuses on mining frequent itemsets and association rules from a dataset of movie viewings to identify popular movie combinations. </div>
 
-**<div align = "justify"> Key Steps: :</div>**
-Preprocess the dataset by removing unnecessary columns.
-Use Apriori to find frequent movie combinations.
-Generate and analyze association rules using lift.
-Visualize the top 9 frequent movie itemsets by support.
+**<div align = "justify"> Key Steps:</div>**
+<div align = "justify">Preprocess the dataset by removing unnecessary columns.</div>
+<div align = "justify">Use Apriori to find frequent movie combinations.</div>
+<div align = "justify">Generate and analyze association rules using lift.</div>
+<div align = "justify">Visualize the top 9 frequent movie itemsets by support.</div>
 
 **<div align = "justify"> 4. Phone Color Dataset:</div>**
 <div align = "justify">This project identifies frequent combinations of phone colors purchased together from a phone dataset.
 
 **<div align = "justify"> Key Steps:</div>**
-Preprocess the dataset by dropping irrelevant columns.
-Apply Apriori to find frequent phone color combinations.
-Generate association rules and filter them by lift.
-Visualize the top 9 frequent color combinations by support.
+<div align = "justify">Preprocess the dataset by dropping irrelevant columns.</div>
+<div align = "justify">Apply Apriori to find frequent phone color combinations.</div>
+<div align = "justify">Generate association rules and filter them by lift.</div>
+<div align = "justify">Visualize the top 9 frequent color combinations by support.</div>
 
 **<div align = "justify"> Results & Insights: </div>**
 <div align = "justify">Across all projects, frequent itemsets were mined successfully using the Apriori algorithm, and association rules were generated to uncover interesting relationships: </div>
