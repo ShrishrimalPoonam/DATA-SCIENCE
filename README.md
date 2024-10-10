@@ -31,7 +31,7 @@
 **<div align = "justify">Degree Centrality:** Measures the number of direct connections a node has. </div>
 **<div align = "justify">Closeness Centrality:** Indicates how easily a node can reach other nodes in the network. </div>
 **<div align = "justify">Betweenness Centrality:** Quantifies the number of times a node acts as a bridge along the shortest path between two other nodes. </div>
-**<div align = "justify">Eigenvector Centrality:**Measures a node’s influence based on the importance of its neighbours. </div>
+**<div align = "justify">Eigenvector Centrality:** Measures a node’s influence based on the importance of its neighbours. </div>
 **<div align = "justify">Clustering Coefficient:** Determines how closely nodes in a network tend to cluster together. </div>
 **<div align = "justify">Average Clustering:** Provides the overall tendency of nodes to cluster in the network. </div>
 
