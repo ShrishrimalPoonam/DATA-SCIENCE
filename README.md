@@ -43,4 +43,4 @@
 
 **<div align = "justify">Explore the Branches:** Each branch contains a project focused on a particular data science concept or technique. Navigate to the relevant branch based on the algorithm or technique you’re interested in. </div>
 
-**<div align = "justify">Readme Files in Each Branch:** Every branch contains a dedicated README with detailed explanations of the project, code snippets, and results. </div>
+**<div align = "justify">Readme Files in Each Branch:** Every branch contains a dedicated README with detailed explanations of the projects.</div>
