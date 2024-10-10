@@ -4,9 +4,9 @@
 **<div align = "justify">1. Disaster Tweets Classification (Multinomial Naive Bayes) </div>**
 
 <div align = "justify">Overview: </div>
-<div align = "justify">This project focuses on classifying tweets as related to real disasters or not. The dataset consists of tweets with binary labels indicating whether each tweet references a disaster. </div>
+<div align = "justify">This project focuses on classifying tweets as related to real disasters or not. The dataset consists of tweets with binary labels indicating whether each tweet references a disaster.</div>
 
-<div align = "justify">Key Steps: </div>
+<div align = "justify">Key Steps:</div>
 
 <div align = "justify">Data Cleaning: </div>
 <div align = "justify">Removal of irrelevant columns (id, keyword, location). </div>
