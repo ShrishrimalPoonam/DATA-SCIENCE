@@ -10,11 +10,11 @@
 **<div align = "justify">Data Preprocessing:** Custom parsing and cleaning of datasets as needed. </div>
 **<div align = "justify">Visualization:** Bar plots to display the most frequent itemsets. </div>
 
-**<div align = "justify"> Tools & Libraries: :</div>**
-**pandas** for data manipulation.
-**mlxtend** for implementing the Apriori algorithm and generating association rules.
-**matplotlib** for visualizations.
-**collections.Counter** for frequency analysis of individual items (used in the groceries project).
+**<div align = "justify"> Tools & Libraries: </div>**
+**<div align = "justify"> pandas** for data manipulation. </div>**
+**<div align = "justify"> mlxtend** for implementing the Apriori algorithm and generating association rules. </div>**
+**<div align = "justify"> matplotlib** for visualizations. </div>**
+**<div align = "justify"> collections.Counter** for frequency analysis of individual items (used in the groceries project). </div>**
 
 **<div align = "justify"> Datasets and Project Description: :</div>**
 
@@ -64,5 +64,5 @@ Visualize the top 9 frequent color combinations by support.
 **Visualizations:**
 <div align = "justify">Each project includes visualizations of the most frequent itemsets and a bar plot for the top combinations by support. These visual aids help in interpreting the results and understanding the patterns in the data. </div>
 
-**Conclusion:**
+**<div align = "justify">Conclusion: </div>**
 <div align = "justify">These projects showcase how association rule mining, particularly the Apriori algorithm, can be used to explore large datasets and uncover meaningful relationships between items. Whether analyzing books, groceries, movies, or phone colors, the same principles of association rule mining apply, providing valuable insights into customer behaviors and item associations. </div>
