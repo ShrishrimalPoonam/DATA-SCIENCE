@@ -9,13 +9,13 @@
 <div align = "justify">This project analyzes a heart disease dataset to identify patterns and groupings within the data. The steps include normalization, KMeans clustering, and PCA to reduce dimensionality while maintaining variance. </div>
 
 **<div align = "justify">Steps: </div>**
-<div align = "justify">Data Loading:Load the heart disease dataset.</div>
-<div align = "justify">Data Preprocessing:Drop irrelevant features.</div>
-**<div align = "justify">Normalization:Normalize the numerical features for better clustering.</div>
-**<div align = "justify">KMeans Clustering:Determine the optimal number of clusters using the elbow method.</div>
-**<div align = "justify">PCA Application:Perform PCA on the normalized data.</div>
-**<div align = "justify">Variance Analysis:Analyze the variance explained by the PCA components.</div>
-**<div align = "justify">Visualization:Create scatter plots to visualize the clusters and PCA components.</div>
+<div align = "justify">Data Loading: Load the heart disease dataset.</div>
+<div align = "justify">Data Preprocessing: Drop irrelevant features.</div>
+<div align = "justify">Normalization: Normalize the numerical features for better clustering.</div>
+<div align = "justify">KMeans Clustering: Determine the optimal number of clusters using the elbow method.</div>
+<div align = "justify">PCA Application: Perform PCA on the normalized data.</div>
+<div align = "justify">Variance Analysis: Analyze the variance explained by the PCA components.</div>
+<div align = "justify">Visualization: Create scatter plots to visualize the clusters and PCA components.</div>
 
 **<div align = "justify">Key Metrics: </div>**
 <div align = "justify">Total Within Sum of Squares (TWSS)</div>
@@ -26,13 +26,13 @@
 <div align = "justify">This project focuses on a wine quality dataset to explore relationships among features and classify wines based on their characteristics. The same methodology is applied as in the heart disease project.</div>
 
 **<div align = "justify">Steps:**
-<div align = "justify">Data Loading:Load the wine quality dataset.</div>
-<div align = "justify">Data Preprocessing:Remove the target variable to focus on features.</div>
-<div align = "justify">Normalization:Normalize the features for clustering.</div>
-<div align = "justify">KMeans Clustering:Use the elbow method to identify the optimal number of clusters.</div>
-<div align = "justify">PCA Application:Apply PCA to reduce dimensionality.</div>
-<div align = "justify">Variance Analysis:Investigate the variance explained by the PCA components. </div>
-<div align = "justify">Visualization:Visualize the clustering and PCA results. </div>
+<div align = "justify">Data Loading: Load the wine quality dataset.</div>
+<div align = "justify">Data Preprocessing: Remove the target variable to focus on features.</div>
+<div align = "justify">Normalization: Normalize the features for clustering.</div>
+<div align = "justify">KMeans Clustering: Use the elbow method to identify the optimal number of clusters.</div>
+<div align = "justify">PCA Application: Apply PCA to reduce dimensionality.</div>
+<div align = "justify">Variance Analysis: Investigate the variance explained by the PCA components. </div>
+<div align = "justify">Visualization: Visualize the clustering and PCA results. </div>
 
 **<div align = "justify">Key Metrics:</div>**
 <div align = "justify">Total Within Sum of Squares (TWSS)</div>
