@@ -1,9 +1,9 @@
 **<div align = "justify">Naive Bayes Projects</div>**
 <div align = "justify">This repository contains three projects demonstrating the application of Naive Bayes algorithms across various domains. Each project explores different datasets and preprocessing techniques, leading to building classification models using either Multinomial Naive Bayes or Gaussian Naive Bayes. </div>
 
-**<div align = "justify">1. Disaster Tweets Classification (Multinomial Naive Bayes) </div>**
+**<div align = "justify">1. Disaster Tweets Classification (Multinomial Naive Bayes)</div>**
 
-<div align = "justify">Overview: </div>
+**<div align = "justify">Overview: </div>**
 <div align = "justify">This project focuses on classifying tweets as related to real disasters or not. The dataset consists of tweets with binary labels indicating whether each tweet references a disaster.</div>
 
 <div align = "justify">Key Steps:</div>
