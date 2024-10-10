@@ -4,6 +4,7 @@
 **<div align = "justify"> Overview</div>**
 
 **<div align = "justify"> Techniques Used:</div>**
+
 **<div align = "justify">Apriori Algorithm:** To mine frequent itemsets with a minimum support threshold. </div>
 **<div align = "justify">Association Rules:** To identify strong associations between items based on the lift metric. </div>
 **<div align = "justify">Data Preprocessing:** Custom parsing and cleaning of datasets as needed. </div>
