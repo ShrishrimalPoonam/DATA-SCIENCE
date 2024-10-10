@@ -10,11 +10,11 @@
 **<div align = "justify">Data Preprocessing:** Custom parsing and cleaning of datasets as needed. </div>
 **<div align = "justify">Visualization:** Bar plots to display the most frequent itemsets. </div>
 
-**<div align = "justify"> Tools & Libraries: </div>**
-**<div align = "justify"> pandas** for data manipulation. </div>**
-**<div align = "justify"> mlxtend** for implementing the Apriori algorithm and generating association rules. </div>**
-**<div align = "justify"> matplotlib** for visualizations. </div>**
-**<div align = "justify"> collections.Counter** for frequency analysis of individual items (used in the groceries project). </div>**
+**<div align = "justify">Tools & Libraries: </div>**
+**<div align = "justify">pandas** for data manipulation. </div>
+**<div align = "justify">mlxtend** for implementing the Apriori algorithm and generating association rules. </div>**
+**<div align = "justify">matplotlib** for visualizations. </div>
+**<div align = "justify">collections.Counter** for frequency analysis of individual items (used in the groceries project). </div>**
 
 **<div align = "justify"> Datasets and Project Description: :</div>**
 
