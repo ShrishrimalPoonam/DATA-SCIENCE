@@ -9,8 +9,8 @@
 <div align = "justify">This project analyzes a heart disease dataset to identify patterns and groupings within the data. The steps include normalization, KMeans clustering, and PCA to reduce dimensionality while maintaining variance. </div>
 
 **<div align = "justify">Steps: </div>**
-**<div align = "justify">Data Loading:** Load the heart disease dataset.</div>
-**<div align = "justify">Data Preprocessing:** Drop irrelevant features.</div>
+<div align = "justify">Data Loading:Load the heart disease dataset.</div>
+<div align = "justify">Data Preprocessing:Drop irrelevant features.</div>
 **<div align = "justify">Normalization:** Normalize the numerical features for better clustering.</div>
 **<div align = "justify">KMeans Clustering:** Determine the optimal number of clusters using the elbow method.</div>
 **<div align = "justify">PCA Application:** Perform PCA on the normalized data.</div>
