@@ -61,7 +61,6 @@
 <div align = "justify">Model performance is evaluated using accuracy metrics and comparing predictions with actual values. </div>
 
 **<div align = "justify">Results:</div>**
-<div align = "justify">The model achieves acceptable accuracy on both training and testing data, with minor misclassification errors.
-_
+<div align = "justify">The model achieves acceptable accuracy on both training and testing data, with minor misclassification errors.</div>
 
 <div align = "justify">Each project demonstrates the power of Naive Bayes for text classification and binary prediction tasks, offering insights into model performance and enhancements through preprocessing techniques. </div>
